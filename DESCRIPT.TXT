@@ -1,0 +1,26 @@
+Title: Moraff's CyberDice, Version 2.0 - January, 1998
+Keywords: WINDOWS 95 DICE SVGA MORAFF MORAFFWARE GAMES YAHTZEE
+Short Description: * MORAFFWARE * Best Yahtzee Dice Game Ever! * Dazzling Animation! MUSIC! * V2.0 *
+Long Description: Moraff's CyberDice is by far the best implementation ever of the classic 
+yahtzee game. The quality of dazzling animations and backgrounds will amaze 
+you. You never knew your computer could do this!
+
+This great game has the following features:
+
+1) Great 3D ray-traced dice, vastly improved graphics!
+2) Now supports head-to-head against Steve Moraff or against your friends.
+3) Game screens are embossed onto dazzling new photographic backdrops!
+4) Play a normal game, or play Mega-CyberDice!
+5) High-scores are kept from game to game!
+6) Slick 'Moraff' popup menu system for full screen play!
+7) Almost an hour of excellent music, or import your own midi music files!
+8) Cool sound effects!
+9) Real 32-bit code for Windows '95 and NT!
+
+Also look for the other NINETEEN brand new dazzling MoraffWare games!
+
+Author: MoraffWare, Steve Moraff
+Registration: Varies
+Hardware Requirements: Pentium or fast 486, sound card, 8 megs RAM
+Color Support: 16 million colors, with support for High-Color 16-bit and 256 colors.
+Other Requirements: Windows '95 or NT (tm)
